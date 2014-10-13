@@ -7,12 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B66CA47219E49CAA001D8574 /* Lion.swift in Sources */ = {isa = PBXBuildFile; fileRef = B66CA47119E49CAA001D8574 /* Lion.swift */; };
 		B687A5BA19D753CC006B570A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B687A5B919D753CC006B570A /* AppDelegate.swift */; };
 		B687A5BC19D753CC006B570A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B687A5BB19D753CC006B570A /* ViewController.swift */; };
 		B687A5BF19D753CC006B570A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B687A5BD19D753CC006B570A /* Main.storyboard */; };
 		B687A5C119D753CC006B570A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B687A5C019D753CC006B570A /* Images.xcassets */; };
 		B687A5C419D753CC006B570A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = B687A5C219D753CC006B570A /* LaunchScreen.xib */; };
 		B687A5D019D753CD006B570A /* LionsAndTigersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B687A5CF19D753CD006B570A /* LionsAndTigersTests.swift */; };
+		B687A5DB19D75800006B570A /* Tiger.swift in Sources */ = {isa = PBXBuildFile; fileRef = B687A5DA19D75800006B570A /* Tiger.swift */; };
+		B687A5E419D75C5C006B570A /* BengalTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5DC19D75C5C006B570A /* BengalTiger.jpg */; };
+		B687A5E519D75C5C006B570A /* IndochineseTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5DD19D75C5C006B570A /* IndochineseTiger.jpg */; };
+		B687A5E619D75C5C006B570A /* Lion.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5DE19D75C5C006B570A /* Lion.jpg */; };
+		B687A5E719D75C5C006B570A /* LionCub1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5DF19D75C5C006B570A /* LionCub1.jpg */; };
+		B687A5E819D75C5C006B570A /* LionCub2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5E019D75C5C006B570A /* LionCub2.jpeg */; };
+		B687A5E919D75C5C006B570A /* Lioness.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5E119D75C5C006B570A /* Lioness.jpeg */; };
+		B687A5EA19D75C5C006B570A /* MalayanTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5E219D75C5C006B570A /* MalayanTiger.jpg */; };
+		B687A5EB19D75C5C006B570A /* SiberianTiger.jpg in Resources */ = {isa = PBXBuildFile; fileRef = B687A5E319D75C5C006B570A /* SiberianTiger.jpg */; };
+		B69B730019EB5D7000FC0172 /* LionCub.swift in Sources */ = {isa = PBXBuildFile; fileRef = B69B72FF19EB5D7000FC0172 /* LionCub.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		B66CA47119E49CAA001D8574 /* Lion.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Lion.swift; sourceTree = "<group>"; };
 		B687A5B419D753CC006B570A /* LionsAndTigers.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LionsAndTigers.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B687A5B819D753CC006B570A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B687A5B919D753CC006B570A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +48,16 @@
 		B687A5C919D753CC006B570A /* LionsAndTigersTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LionsAndTigersTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B687A5CE19D753CC006B570A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B687A5CF19D753CD006B570A /* LionsAndTigersTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LionsAndTigersTests.swift; sourceTree = "<group>"; };
+		B687A5DA19D75800006B570A /* Tiger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Tiger.swift; sourceTree = "<group>"; };
+		B687A5DC19D75C5C006B570A /* BengalTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = BengalTiger.jpg; sourceTree = "<group>"; };
+		B687A5DD19D75C5C006B570A /* IndochineseTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = IndochineseTiger.jpg; sourceTree = "<group>"; };
+		B687A5DE19D75C5C006B570A /* Lion.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lion.jpg; sourceTree = "<group>"; };
+		B687A5DF19D75C5C006B570A /* LionCub1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LionCub1.jpg; sourceTree = "<group>"; };
+		B687A5E019D75C5C006B570A /* LionCub2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = LionCub2.jpeg; sourceTree = "<group>"; };
+		B687A5E119D75C5C006B570A /* Lioness.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Lioness.jpeg; sourceTree = "<group>"; };
+		B687A5E219D75C5C006B570A /* MalayanTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = MalayanTiger.jpg; sourceTree = "<group>"; };
+		B687A5E319D75C5C006B570A /* SiberianTiger.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = SiberianTiger.jpg; sourceTree = "<group>"; };
+		B69B72FF19EB5D7000FC0172 /* LionCub.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LionCub.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +101,7 @@
 			children = (
 				B687A5B919D753CC006B570A /* AppDelegate.swift */,
 				B687A5BB19D753CC006B570A /* ViewController.swift */,
+				B687A5D919D75788006B570A /* Models */,
 				B687A5BD19D753CC006B570A /* Main.storyboard */,
 				B687A5C019D753CC006B570A /* Images.xcassets */,
 				B687A5C219D753CC006B570A /* LaunchScreen.xib */,
@@ -90,6 +113,14 @@
 		B687A5B719D753CC006B570A /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B687A5DC19D75C5C006B570A /* BengalTiger.jpg */,
+				B687A5DD19D75C5C006B570A /* IndochineseTiger.jpg */,
+				B687A5DE19D75C5C006B570A /* Lion.jpg */,
+				B687A5DF19D75C5C006B570A /* LionCub1.jpg */,
+				B687A5E019D75C5C006B570A /* LionCub2.jpeg */,
+				B687A5E119D75C5C006B570A /* Lioness.jpeg */,
+				B687A5E219D75C5C006B570A /* MalayanTiger.jpg */,
+				B687A5E319D75C5C006B570A /* SiberianTiger.jpg */,
 				B687A5B819D753CC006B570A /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -110,6 +141,16 @@
 				B687A5CE19D753CC006B570A /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B687A5D919D75788006B570A /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				B687A5DA19D75800006B570A /* Tiger.swift */,
+				B66CA47119E49CAA001D8574 /* Lion.swift */,
+				B69B72FF19EB5D7000FC0172 /* LionCub.swift */,
+			);
+			name = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,9 +233,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B687A5E519D75C5C006B570A /* IndochineseTiger.jpg in Resources */,
 				B687A5BF19D753CC006B570A /* Main.storyboard in Resources */,
 				B687A5C419D753CC006B570A /* LaunchScreen.xib in Resources */,
+				B687A5E919D75C5C006B570A /* Lioness.jpeg in Resources */,
+				B687A5E719D75C5C006B570A /* LionCub1.jpg in Resources */,
+				B687A5EA19D75C5C006B570A /* MalayanTiger.jpg in Resources */,
+				B687A5EB19D75C5C006B570A /* SiberianTiger.jpg in Resources */,
+				B687A5E419D75C5C006B570A /* BengalTiger.jpg in Resources */,
 				B687A5C119D753CC006B570A /* Images.xcassets in Resources */,
+				B687A5E619D75C5C006B570A /* Lion.jpg in Resources */,
+				B687A5E819D75C5C006B570A /* LionCub2.jpeg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -213,7 +262,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				B687A5BC19D753CC006B570A /* ViewController.swift in Sources */,
+				B687A5DB19D75800006B570A /* Tiger.swift in Sources */,
 				B687A5BA19D753CC006B570A /* AppDelegate.swift in Sources */,
+				B69B730019EB5D7000FC0172 /* LionCub.swift in Sources */,
+				B66CA47219E49CAA001D8574 /* Lion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -405,6 +457,7 @@
 				B687A5D519D753CD006B570A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		B687A5D619D753CD006B570A /* Build configuration list for PBXNativeTarget "LionsAndTigersTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +466,7 @@
 				B687A5D819D753CD006B570A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
